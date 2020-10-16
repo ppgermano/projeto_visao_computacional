@@ -1,6 +1,6 @@
 # Projeto Visão Computacional
 
-Projeto de conclusão da disciplina de visão computacional da turma 11IA da FIAP.
+Projeto de conclusão da disciplina de visão computacional da turma 11IA da FIAP  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ppgermano/projeto_visao_computacional/blob/main/squalio_model.ipynb)
 
 ## Integrantes
 
